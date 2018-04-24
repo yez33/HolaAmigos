@@ -22,6 +22,41 @@ Un Sistema Operativo (SO) es un programa (software) que después de arrancado o 
 
 ![](http://www.nosabesnada.com/uploads/2013/02/Captura-de-pantalla-2012-04-06-a-las-22.27.20-300x221.png)
 
+ 
+![](https://images.cooltext.com/5136263.png)
+
+[Enlace a info](http://linux.ciberaula.com/articulo/que_es_linux)
+
+LINUX (o GNU/LINUX, más correctamente) es un Sistema Operativo como MacOS, DOS o Windows. Es decir, Linux es el software necesario para que tu ordenador te permita utilizar programas como: editores de texto, juegos, navegadores de Internet, etc. Linux puede usarse mediante un interfaz gráfico al igual que Windows o MacOS, pero también puede usarse mediante línea de comandos como DOS.
+# Razones para usar Linux
+Es gratuito
+
+Facilidad de uso
+
+Seguridad
+ 
+Compatibilidad
+ 
+![](http://permondo.eu/wp-content/uploads/2014/06/logo-linux.png)
+
+![](https://images.cooltext.com/5136269.png)
+ 
+[ Enlace a información ] (https://definicion.de/windows/)
+
+Windows es una palabra del idioma inglés que significa "ventana". Su utilización en español, en cambio, está muy unida a un sistema informático desarrollado por la empresa Microsoft y comercializado desde 1985.
+
+Microsoft Windows es un sistema operativo, es decir, un conjunto de programas que posibilita la administración de los recursos de una computadora. Este tipo de sistema comienza a trabajar cuando se enciende el equipo para gestionar el hardware a partir de los niveles más básicos.
+
+#  Razones para usar Windows
+ Inercia
+
+ Software y controladores
+ 
+ Variedad de versiones y programas
+ 
+ Es fácil de usar
+ 
+ ![](http://files.softicons.com/download/system-icons/crystal-intense-icons-by-tatice/png/256/Windows.png)
 
 ##  Versiones de los sistemas operativos
 
