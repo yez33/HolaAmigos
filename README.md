@@ -38,3 +38,24 @@ Seguridad
 Versatilidad
 
 Compatibilidad
+
+![](http://permondo.eu/wp-content/uploads/2014/06/logo-linux.png)
+
+![](https://images.cooltext.com/5136269.png)
+
+[Enlace a info](https://definicion.de/windows/)
+
+Windows es una palabra del idioma inglés que significa “ventana”. Su utilización en español, en cambio, está casi exclusivamente vinculada a un sistema informático desarrollado por la empresa Microsoft y comercializado desde 1985.
+
+Microsoft Windows es un sistema operativo, es decir, un conjunto de programas que posibilita la administración de los recursos de una computadora. Este tipo de sistemas empieza a trabajar cuando se enciende el equipo para gestionar el hardware a partir desde los niveles más básicos.
+
+# Razones para usar Windows
+Inercia
+
+Software y controladores
+
+Variedad de versiones y programas
+
+Es facil de usar
+
+![](http://files.softicons.com/download/system-icons/crystal-intense-icons-by-tatice/png/256/Windows.png)
