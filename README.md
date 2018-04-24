@@ -41,7 +41,7 @@ Compatibilidad
 
 ![](https://images.cooltext.com/5136269.png)
  
-[ Enlace a información ] (https://definicion.de/windows/)
+[ Enlace a información ](https://definicion.de/windows/)
 
 Windows es una palabra del idioma inglés que significa "ventana". Su utilización en español, en cambio, está muy unida a un sistema informático desarrollado por la empresa Microsoft y comercializado desde 1985.
 
